@@ -141,3 +141,6 @@ IPL-Advertising-2025/
 ---
 
 Let me know if you want this saved as a file or want help building the folder structure (`assets`, `sql`, `data`, `reports`) too. Happy to help with that next.
+
+Thank you for your support, and I look forward to connecting with you!
+And don't hesitate to give me suggestions for better improvment.
