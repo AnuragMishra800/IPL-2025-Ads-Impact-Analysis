@@ -121,6 +121,22 @@ I’m an aspiring data analyst passionate about using data to drive ethical stor
 
 ---
 
+---
+
+## 🎥 Project Walkthrough (YouTube)
+
+▶️ Watch the full video presentation on YouTube:  
+🔗 [IPL Advertising Ethics & Impact – Full Project Walkthrough](https://youtu.be/W4ZmSKyeqDg?si=OWcpE4P4YRgqlUtB)
+
+This presentation covers:
+- Dataset structure & preprocessing
+- SQL analysis (pgAdmin demo)
+- Power BI dashboard tour
+- Ethics Index (AEI), policy gaps, and final recommendations
+
+---
+
+
 ## 📁 Repository Structure
 
 IPL-Advertising-2025/
