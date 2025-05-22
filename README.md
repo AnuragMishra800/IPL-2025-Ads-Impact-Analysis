@@ -76,13 +76,6 @@ SELECT SUM(avg_user_population * 0.15) AS estimated_affected
 FROM demographic_summary;
 ```
 
-📦 IPL-Advertising-2025
-├── 📁 assets/                # Dashboard images, reference PDFs
-├── 📁 sql/                   # Final SQL queries
-├── 📁 data/                  # Cleaned CSVs used in Power BI
-├── 📁 reports/               # Dashboard PDF export
-└── README.md                # This file
-
 ## 🧑‍⚖️ Ethical & Regulatory Impact Metrics
 
 **Ad Revenue (₹ Cr):** ₹10,373  
@@ -135,15 +128,12 @@ This presentation covers:
 
 ---
 
-
-## 📁 Repository Structure
-
-IPL-Advertising-2025/
-├── assets/ # Dashboard images, reference PDFs
-├── data/ # Cleaned CSVs used in Power BI
-├── sql/ # Final SQL queries
-├── reports/ # Dashboard PDF export
-└── README.md # This file
+📦 IPL-Advertising-2025
+├── 📁 assets/              # Dashboard images, reference PDFs, supporting visuals
+├── 📁 sql/                 # Final PostgreSQL queries used for analysis
+├── 📁 data/                # Cleaned CSVs used for Power BI and preprocessing
+├── 📁 reports/             # Power BI dashboard export (PDFs or images)
+└── 📄 README.md            # This documentation file
 
 
 📬 Contact
