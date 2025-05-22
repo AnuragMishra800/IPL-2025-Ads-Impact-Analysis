@@ -56,7 +56,7 @@ A full-stack data analytics project that evaluates the economic gains vs. ethica
 
 > 📌 KPI Cards | AEI Score | Category-wise Risk | Brand-wise Revenue | Recommendations
 
-![Dashboard Preview](./assets/dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
 ---
 
@@ -122,9 +122,9 @@ I’m an aspiring data analyst with a passion for ethical storytelling using spo
 └── README.md                # This file
 
 📬 Contact
-🌐 LinkedIn
+🌐 LinkedIn https://www.linkedin.com/in/anurag-mishra-b17051288/
 
-📧 your.email@example.com
+📧 anuragmishrably800@gmail.com
 
 
 ---
