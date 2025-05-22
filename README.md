@@ -83,45 +83,56 @@ FROM demographic_summary;
 ├── 📁 reports/               # Dashboard PDF export
 └── README.md                # This file
 
-🧑‍⚖️ Ethical & Regulatory Impact
-Metric	Economic Impact	Social Impact
-Ad Revenue (₹ Cr)	₹10,373	High-risk ad categories present
-Employment Boost	Seasonal jobs	Informal & unmonitored
-Brand Reach	Pan-India	Unethical categories dominate
-Public Health Burden	—	₹1.5 Lakh Cr (long-term est.)
-AEI Score	❌	17.5 / 100
+## 🧑‍⚖️ Ethical & Regulatory Impact Metrics
 
-AEI = Advertising Ethics Index, custom metric created for this project
+**Ad Revenue (₹ Cr):** ₹10,373  
+**Top Issues:**
+- High-risk ad categories present (pan masala, betting)
+- Employment boost limited to informal seasonal jobs
+- Unethical categories dominate IPL visibility
+- Public Health Burden: ₹1.5 Lakh Cr (long-term est.)
+- AEI (Advertising Ethics Index) Score: ❌ **17.5 / 100**
 
-🎯 Recommendations
-Ban surrogate ads during IPL broadcasts
+> `AEI = Advertising Ethics Index`, a custom metric created for this project to measure brand-level ethical impact during IPL broadcasts.
 
-Apply mandatory health disclaimers for harmful categories
+---
 
-Introduce vetting for fantasy gaming endorsements
+## 🎯 Recommendations
 
-Form independent ad ethics committee under BCCI
+- 🚫 Ban surrogate ads during IPL broadcasts
+- ⚠️ Apply mandatory health disclaimers on harmful categories
+- ✅ Introduce vetting for fantasy gaming endorsements
+- 🧑‍⚖️ Form an independent ad ethics committee under BCCI
+- 🌍 Align with global advertising standards (e.g. FIFA, Olympics)
 
-Align with global ad standards like FIFA and Olympics
+---
 
-🔮 Future Improvements
-Add time series data to evaluate revenue growth (CAGR)
+## 🔮 Future Improvements
 
-Enable geo filtering to isolate regional risk zones
+- 📈 Add time series data to project long-term revenue growth (CAGR)
+- 🌐 Enable geo-filtering for regional risk zone analysis
+- 🏉 Expand model to other sports (ISL, Pro Kabaddi, etc.)
 
-Expand analysis to other sports (ISL, Pro Kabaddi)
+---
 
-🧑‍💼 About Me
-I’m an aspiring data analyst with a passion for ethical storytelling using sports data. This IPL project blends SQL, visualization, and public policy thinking — designed to inform, challenge, and guide better decision-making in advertising.
+## 👤 About Me
 
-📦 IPL-Advertising-2025
-├── 📁 assets/                # Dashboard images, reference PDFs
-├── 📁 sql/                   # Final SQL queries
-├── 📁 data/                  # Cleaned CSVs used in Power BI
-├── 📁 reports/               # Dashboard PDF export
-└── README.md                # This file
+I’m an aspiring data analyst passionate about using data to drive ethical storytelling in sports. This IPL project combines SQL, Power BI, and public policy analysis to help fans and stakeholders better understand the real impact of brand advertising.
+
+---
+
+## 📁 Repository Structure
+
+IPL-Advertising-2025/
+├── assets/ # Dashboard images, reference PDFs
+├── data/ # Cleaned CSVs used in Power BI
+├── sql/ # Final SQL queries
+├── reports/ # Dashboard PDF export
+└── README.md # This file
+
 
 📬 Contact
+
 🌐 LinkedIn https://www.linkedin.com/in/anurag-mishra-b17051288/
 
 📧 anuragmishrably800@gmail.com
