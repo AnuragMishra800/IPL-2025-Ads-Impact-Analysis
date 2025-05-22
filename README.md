@@ -128,12 +128,12 @@ This presentation covers:
 
 ---
 
-📦 IPL-Advertising-2025
-├── 📁 assets/              # Dashboard images, reference PDFs, supporting visuals
-├── 📁 sql/                 # Final PostgreSQL queries used for analysis
-├── 📁 data/                # Cleaned CSVs used for Power BI and preprocessing
-├── 📁 reports/             # Power BI dashboard export (PDFs or images)
-└── 📄 README.md            # This documentation file
+📦 IPL-Advertising-2025/
+├── 📁 assets/        — Dashboard images, reference PDFs, supporting visuals
+├── 📁 sql/           — Final PostgreSQL queries used for analysis
+├── 📁 data/          — Cleaned CSVs used for Power BI and preprocessing
+├── 📁 reports/       — Power BI dashboard exports (PDFs or images)
+└── 📄 README.md      — This documentation file
 
 
 📬 Contact
